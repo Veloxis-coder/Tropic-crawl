@@ -1,0 +1,11 @@
+{
+  "name": "tropiccrawl",
+  "version": "0.3.0",
+  "description": "TropicCrawl: arm-swing VR movement in a lit arena (WebXR, three.js)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "license": "MIT"
+}
